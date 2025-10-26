@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "graphIndex": 1,
+      "vertices": 5,
+      "edgesCount": 5,
+      "primCost": 50,
+      "kruskalCost": 50,
+      "primTimeMs": 4.8,
+      "kruskalTimeMs": 1.82
+    },
+    {
+      "graphIndex": 2,
+      "vertices": 14,
+      "edgesCount": 14,
+      "primCost": 121,
+      "kruskalCost": 121,
+      "primTimeMs": 0.07,
+      "kruskalTimeMs": 0.05
+    },
+    {
+      "graphIndex": 3,
+      "vertices": 21,
+      "edgesCount": 25,
+      "primCost": 158,
+      "kruskalCost": 158,
+      "primTimeMs": 0.13,
+      "kruskalTimeMs": 0.06
+    }
+  ]
+}
